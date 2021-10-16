@@ -5,7 +5,7 @@
 <Style id="style1">
 	<LineStyle>
 		<color>40000000</color>
-		<width>1</width>
+		<width>0</width>
 	</LineStyle>
 	<PolyStyle>
 		<color>ff168f1b</color>
